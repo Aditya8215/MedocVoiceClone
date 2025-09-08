@@ -20,3 +20,14 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# some internal files 
+medoc-voice-venv/
+temp_audio/
+temp_recordings/
+
+__pycache__/
+
+.env
+venv
+.devcontainer
